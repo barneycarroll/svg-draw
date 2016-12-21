@@ -1,0 +1,25 @@
+{
+  "name": "svg-draw",
+  "version": "1.0.0",
+  "description": "An SVG authoring tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barneycarroll/svg-draw.git"
+  },
+  "keywords": [
+    "svg",
+    "graphics",
+    "authoring",
+    "tool"
+  ],
+  "author": "Barney Carroll <barney.carroll@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barneycarroll/svg-draw/issues"
+  },
+  "homepage": "https://github.com/barneycarroll/svg-draw#readme"
+}
